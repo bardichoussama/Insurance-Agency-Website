@@ -20,7 +20,7 @@
 <script setup>
 import { defineProps } from 'vue';
 import NavBar from "../Components/Header.vue";
-import Footer from "../components/Footer.vue";
+import Footer from "../Components/Footer.vue";
 
 // Define props for service details
 const props = defineProps({
