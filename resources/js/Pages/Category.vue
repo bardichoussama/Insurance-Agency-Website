@@ -30,7 +30,7 @@
 import { defineProps } from "vue";
 import Slider from "../Components/Slider.vue";
 import NavBar from "../Components/Header.vue";
-import Footer from "../components/Footer.vue";
+import Footer from "../Components/Footer.vue";
 import ServiceCard from "../Components/ServiceCard.vue";
 
 const props = defineProps({
